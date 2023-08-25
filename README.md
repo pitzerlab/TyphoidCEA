@@ -8,7 +8,7 @@ Manuscript: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)3
   * countries and who regions_Gavi54.csv
 * rawdata_dynamicoutput
   * typh_Joke_Dec15_unc.Rdata
-  * countrycodesMarina8jan.csv
+  * countrycodesMarina6june.csv
   * World Bank Life Expectancy at Birth.csv
 * inputdata_dynamicoutput
   * Folder 'dynamicoutputunc_constantInc'
