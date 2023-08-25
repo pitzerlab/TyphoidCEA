@@ -4,4 +4,4 @@ Manuscript: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)3
 
 
 
-**Pitzer Lab** | Yale School of Public Health (YSPH) | virginia.pitzer@yale.edu
+**Pitzer Lab** | YSPH Public Health Modeling Unit | virginia.pitzer@yale.edu
